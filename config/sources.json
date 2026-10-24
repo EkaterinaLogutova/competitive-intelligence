@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "irecommend_ozon_travel",
+      "url": "https://irecommend.ru/content/sait-ozontravel-0",
+      "initial_class": "review_collection",
+      "scope": "collection",
+      "notes": "Карточка Ozon Travel с агрегированной оценкой и пагинированной лентой пользовательских отзывов."
+    },
+    {
+      "id": "livejournal_5koleso",
+      "url": "https://5koleso.livejournal.com",
+      "initial_class": "blog_feed",
+      "scope": "collection",
+      "notes": "Предварительно: блог или журнал с лентой публикаций."
+    },
+    {
+      "id": "dzen_computers_news",
+      "url": "https://dzen.ru/news/rubric/computers",
+      "initial_class": "news_rubric",
+      "scope": "collection",
+      "notes": "Тематическая рубрика-агрегатор: карточки ведут одновременно на сюжет Дзена и публикацию исходного СМИ."
+    },
+    {
+      "id": "fourpda_forum_320",
+      "url": "https://4pda.to/forum/index.php?showforum=320",
+      "initial_class": "forum_section",
+      "scope": "collection",
+      "notes": "Предварительно: раздел форума с темами и пользовательскими сообщениями."
+    },
+    {
+      "id": "otzovik_banks",
+      "url": "https://otzovik.com/money_systems/banks/",
+      "initial_class": "review_catalog",
+      "scope": "collection",
+      "notes": "Предварительно: каталог банков и пользовательских отзывов."
+    },
+    {
+      "id": "drive2_featured_topics",
+      "url": "https://www.drive2.ru/featured-topics/CVQ0gEAAcHQ/",
+      "initial_class": "empty_topic_collection",
+      "scope": "collection",
+      "notes": "Тематическая страница «Безопасность» в разделе «Самое интересное»; на момент проверки публикаций нет."
+    }
+  ]
+}
+

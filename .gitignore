@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# Raw pages and generated datasets may contain third-party or personal data.
+data/raw/
+data/processed/
+reports/generated/
+
+# Local secrets and browser profiles.
+.env
+.env.*
+!.env.example
+browser-profile/
+private-snapshots/
+

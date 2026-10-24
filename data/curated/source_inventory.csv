@@ -1,0 +1,7 @@
+source_id,source_name,platform_type,page_type,item_type,collection_state,access_method,items_on_snapshot,collection_size_signal,size_semantics,pagination_pages,has_title,has_body,has_author,has_published_at,has_publisher,has_metrics,has_original_url,label_confidence
+irecommend_ozon_travel,iRecommend Ozon Travel,review_platform,review_collection,user_review,populated,browser,,393,rating_votes,8,1,1,1,1,0,1,1,1.0
+livejournal_5koleso,5 Колесо в LiveJournal,blog_platform,publisher_blog_feed,editorial_post,populated,direct_http,10,735,total_entries,,1,1,0,1,1,1,1,1.0
+dzen_computers_news,Дзен Новости технологий,news_platform,news_aggregator_rubric,news_card,populated,saved_html,29,29,snapshot_cards,1,1,1,0,1,1,0,1,1.0
+fourpda_forum_320,4PDA Безопасность,forum,forum_section_index,forum_topic,populated,browser,30,,unknown,4,1,0,1,0,0,1,1,1.0
+otzovik_banks,Отзовик Банки,review_platform,review_catalog,review_object,populated,direct_http,30,1473,total_objects,,1,0,0,0,0,1,1,1.0
+drive2_featured_topics,DRIVE2 Безопасность,automotive_social_network,topic_collection,social_post,empty,browser,0,0,empty,1,1,0,0,0,1,0,0,1.0
